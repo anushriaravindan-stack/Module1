@@ -12,8 +12,17 @@ To write a Python program that reads two integers, creates a complex number usin
 6. Print the imaginary part of `x` using `x.imag`.
 
 ## 💻 Program
-Add Code Here
+a = 3 + 4j
+b = complex(5, 2)
+
+print("Complex number a =", a)
+print("Complex number b =", b)
+print("Type of a =", type(a))
 
 ## Output
+Complex number a = (3+4j)
+Complex number b = (5+2j)
+Type of a = <class 'complex'>
 
 ## Result
+Thus the complex number in python is created successfully.
