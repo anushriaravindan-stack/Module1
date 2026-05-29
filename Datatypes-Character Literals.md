@@ -8,7 +8,14 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 2. Print the character `'a'`.
 
 ## 🧾 Program
+ch = 'A'
+
+print("Character is:", ch)
+print("Type is:", type(ch))
 
 ## Output
+Character is: A
+Type is: <class 'str'>
 
 ## Result
+Thus the character literal in python is successfully verified.
